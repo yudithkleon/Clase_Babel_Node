@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+body {
+  background-color: #16161a !important;
+}
+
+.logo {
+  padding: 30px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.container {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+#title {
+  color: #fffffe;
+  font-family: "Inter" !important;
+  font-weight: 700;
+  font-size: 32px;
+  padding: 20px;
+}
+
+#linea {
+  border: 1px solid #94a1b2 !important;
+  width: 90%;
+}
+
+.btn-danger {
+  width: 90%;
+  height: 50px;
+  border-radius: 6px;
+  background-color: #ef4565 !important;
+}
+
+#ir{
+  margin-top: 5px;
+ width: 10%;
+ padding: 10px;
+}
+h3 {
+  padding: 16px;
+  height: 50px;
+  width: 100%;
+  color: white;
+  font-size: 23px !important;
+  font-weight: 500 !important;
+  font-family: "Inter";
+}
+
+#correo {
+  font-family: "Inter";
+  font-size: 18px;
+  width: 90%;
+  height: 50px;
+  border-radius: 6px;
+}
+p a {
+  font-family: "Inter" !important;
+  color: #25ac73 !important;
+  font-size: 16px !important;
+}
+
+#olvContraseña {
+  font-size: 18px !important;
+  margin-top: 20px !important;
+}
+
+#etiqueta {
+
+  font-size: 18px !important;
+  color: white !important;
+}
+
+#Inscribir {
+  font-size: 18px !important;
+}
+
+
+
